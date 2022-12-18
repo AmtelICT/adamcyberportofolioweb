@@ -352,7 +352,7 @@ work easily with a team. Improving the tech world is my passion..</p>
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="https://schoolerpdemo.adamcyberspace.com" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -402,7 +402,7 @@ work easily with a team. Improving the tech world is my passion..</p>
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="https://hospitaldemo.adamcyberspace.com/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
