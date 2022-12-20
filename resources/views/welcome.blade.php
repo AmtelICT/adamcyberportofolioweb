@@ -644,7 +644,7 @@ work easily with a team. Improving the tech world is my passion..</p>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="//code.tidio.co/ywx2n8wuonibcm7kxfetbeiq4kcbn888.js" async></script>
+  
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
